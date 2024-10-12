@@ -1,4 +1,4 @@
-# CIS*3760 Synthix GeoJobSearch
+# GeoJobSearch
 
 ## Local Setup
 
